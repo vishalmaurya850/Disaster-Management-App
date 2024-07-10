@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stellar-sdk": "^12.1.0"
+  }
+}
